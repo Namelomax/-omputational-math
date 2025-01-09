@@ -1,0 +1,14 @@
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\bin\Debug\net9.0\Lab6.exe
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\bin\Debug\net9.0\Lab6.deps.json
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\bin\Debug\net9.0\Lab6.runtimeconfig.json
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\bin\Debug\net9.0\Lab6.dll
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\bin\Debug\net9.0\Lab6.pdb
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfoInputs.cache
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.AssemblyInfo.cs
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.csproj.CoreCompileInputs.cache
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.dll
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\refint\Lab6.dll
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.pdb
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\Lab6.genruntimeconfig.cache
+D:\Jacob\Лабы\ВычМат\Лаб6\Lab6\obj\Debug\net9.0\ref\Lab6.dll
