@@ -1,2 +1,2 @@
-# -omputational-math
+# Computational-math
 Six labs on C#
